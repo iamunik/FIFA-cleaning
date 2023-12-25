@@ -1,4 +1,3 @@
-<hr>
 <div style='text-align: center;'>
 <h1>FIFA Data-cleaning</h1></div>
 <hr>
